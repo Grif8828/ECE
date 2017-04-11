@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="ECE101" Database="" Version="10.0.0">
+  <Project Name="Ex0" Path="Ex0/Ex0.project" Active="No"/>
+  <Project Name="EX1" Path="../../2017t2-ece-101-c-Grif8828/Exercises/Ex1/EX1/EX1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Ex0" ConfigName="Debug"/>
+      <Project Name="EX1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Ex0" ConfigName="Release"/>
+      <Project Name="EX1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
